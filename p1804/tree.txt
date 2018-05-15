@@ -1,0 +1,78 @@
+.
+├── 01day
+│   ├── 01
+│   │   ├── 02
+│   │   ├── 1.txt
+│   │   ├── 2.txt
+│   │   ├── 5.txt
+│   │   ├── 7.txt
+│   │   └── y01
+│   ├── 02.py
+│   ├── 2laopo
+│   ├── demo
+│   ├── laowang
+│   │   ├── 1laopo
+│   │   ├── daqiao
+│   │   └── xiaoqiao
+│   └── load
+│       ├── one
+│       └── two
+│           ├── 1.py
+│           ├── 2.py
+│           ├── 3.html
+│           ├── a
+│           │   ├── a
+│           │   ├── ab
+│           │   ├── abc
+│           │   ├── b
+│           │   │   └── c
+│           │   │       └── d
+│           │   │           └── ab
+│           │   │               └── dc
+│           │   │                   └── abc
+│           │   ├── c
+│           │   ├── d
+│           │   └── dc
+│           ├── sun.c
+│           ├── team
+│           ├── three
+│           └── txt
+├── 1111.txt
+├── 123.py
+├── 333.txt
+├── 333.txt.222.txt
+├── 999,txt
+├── 999.txt
+├── aa
+│   └── bb
+│       └── cc
+│           └── dd
+│               └── ee
+│                   └── ff
+│                       └── a.txt
+├── a.txt
+├── cal.txt
+├── lianxi
+│   ├── demo
+│   │   ├── 01_hard
+│   │   ├── 111.txt
+│   │   └── b
+│   │       └── c
+│   │           └── 02.py
+│   ├── firstlink -> .FirstLink
+│   ├── FirstLink -> 02.py
+│   └── firstlink1 -> /home/congchao/p1804/lianxi/FirstLink
+├── p1803
+├── p4
+│   └── beicai
+│       ├── aa
+│       │   └── hello.txt
+│       ├── bb
+│       │   └── world
+│       └── cc
+│           └── itcast.py
+├── test.txt
+├── tree.txt
+└── 文件名.txt
+
+41 directories, 34 files

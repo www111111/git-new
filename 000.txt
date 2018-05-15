@@ -1,0 +1,1000 @@
+  357  pwd
+  358  cd ..
+  359  pwd
+  360  ls
+  361  cd laowang
+  362  ls
+  363  pwd
+  364  ls
+  365  cd laowang1
+  366  cd ..
+  367  cd laowang1
+  368  ls
+  369  cp .dalaopo .daqiao
+  370  cp laowang1.dalaopo daqaio
+  371  cd p111
+  372  cd dalaopo
+  373  cp .dalaopo daqiao
+  374  cd ..
+  375  ls
+  376  cd .dalaopo x
+  377  cd ..
+  378  ls
+  379  cd p1804
+  380  ls
+  381  cd 01day
+  382  ls
+  383  cd ../..
+  384  pwd
+  385  la
+  386  ls
+  387  cd laowang1
+  388  ls
+  389  cp ./dalaopo ./da
+  390  mv ./dalaopo ./
+  391  mv ./dalaopo ../laowang1
+  392  man cp
+  393  cp ./dalaopo ../ da
+  394  clran
+  395  clern
+  396  carn
+  397  clarn
+  398  clean
+  399  clarn
+  400  clear
+  401  ls
+  402  cp dalaopo daqiao
+  403  cp dalaopo ./daqiao
+  404  cp .dalaopo ./daqiao
+  405  clern
+  406  clarn
+  407  clear
+  408  ls
+  409  pwd
+  410  mkdir A
+  411  ls
+  412  rm dalaopo A
+  413  rm .dalaopo .A
+  414  rm ./dalaopo ./A
+  415  rm dalopo ./A/
+  416  cp dalopo ./A/
+  417  clear
+  418  cd ..
+  419  pwd
+  420  ls
+  421  cd 桌面
+  422  ls
+  423  touch 02.py
+  424  ls
+  425  mkdir -p demo/b/c
+  426  tree
+  427  ln -s 02.py ./demo/b/c
+  428  ls
+  429  tree
+  430  pwd
+  431  ln -s /home/congchao/桌面/demo/b/c/02.py 1fist
+  432  tree
+  433  ln -s ./02.py 2first
+  434  tree
+  435  pwd
+  436  ls
+  437  cd first
+  438  edyt first
+  439  edit 2first
+  440  mv 1fist ./demo/
+  441  ls
+  442  cd usr
+  443  cd ..
+  444  ls
+  445  cd 桌面
+  446  mkdir /usr/bin
+  447  cd usr
+  448  mkdir ./usr/bin
+  449  mkdir usr
+  450  ls
+  451  rm usr
+  452  rm -rf usr
+  453  mkdir -p /usr/bin
+  454  ls
+  455  pwd
+  456  cd ..
+  457  pwd
+  458  cd 桌面
+  459  ls
+  460  cd 未命名文件夹
+  461  ls
+  462  cd ..
+  463  mkdir -p /usr/bin
+  464  ls
+  465  mkdir usr
+  466  ls
+  467  cd usr
+  468  mkdir bin
+  469  ls
+  470  mkdir 1.txt
+  471  ls
+  472  rm -rf 1,txt
+  473  ls
+  474  rm -rf 1.txt
+  475  ls
+  476  cd bin
+  477  touch 1.txt
+  478  ls
+  479  cd ../..
+  480  /桌面/usr/bin/ > /home/congchao/p1804
+  481  /桌面/usr/bin/ > /home/congchao/p1804/
+  482  cd ..
+  483  pwd
+  484  ls
+  485  cd p1804
+  486  ls
+  487  touch 333.txt
+  488  ls
+  489  /桌面/usr/bin/ > /home/congchao/p1804/333.txt
+  490  /桌面/usr/bin/1.txt > /home/congchao/p1804/
+  491  /桌面/usr/bin/1.txt > /home/congchao/p1804/333.txt
+  492  /桌面/usr/bin/1.txt/ > /home/congchao/p1804/333.txt
+  493  /桌面/usr/bin > /home/congchao/p1804/333.txt
+  494  history
+  495  cd ..
+  496  /桌面/usr/bin/1.txt/ > /home/congchao/p1804/333.txt
+  497  cat /桌面/usr/bin/1.txt/ > /home/congchao/p1804/333.txt
+  498  cat /home/桌面/usr/bin/1.txt/ > /home/congchao/p1804/333.txt
+  499  cd usr
+  500  cd
+  501  cd 桌面
+  502  cd usr
+  503  cd bin
+  504  ls
+  505  cat /桌面/usr/bin/1.txt/ > /home/congchao/p1804/333.txt
+  506  cd ~
+  507  cat /桌面/usr/bin/1.txt/ > /home/congchao/p1804/333.txt
+  508  cd /桌面/usr/bin
+  509  cd 桌面
+  510  cd usr
+  511  cd bin
+  512  ls
+  513  1.txt > /home/congchao/p1804/333.txt
+  514  mkdir 2222.txt
+  515  ls
+  516  touch 2222.txt
+  517  2222.txt > /home/congchao/p1804/333.txt
+  518  .2222.txt > /home/congchao/p1804/333.txt
+  519  ls
+  520  touch 222.txt
+  521  ls
+  522  222.txt > /home/congchao/p1804/333.txt
+  523  cd ..
+  524  .222.txt > /home/congchao/p1804/333.txt
+  525  cd bin
+  526  ls
+  527  history > 222.txt
+  528  cat 222.txt
+  529  222.txt > /home/congchao/p1804/333.txt.222.txt
+  530  222.txt > /home/congchao/p1804/333.txt
+  531  ls
+  532  cat 222.txt > /home/congchao/p1804/333.txt
+  533  pwd
+  534  cd 1804
+  535  mkdir 1804
+  536  pwd
+  537  cd 1804
+  538  ls
+  539  mkdir p3
+  540  ls
+  541  cd p3
+  542  ls
+  543  touch 1.tt
+  544  ls
+  545  mv 1.tt
+  546  rm 1.tt
+  547  ls
+  548  touch 1.txt
+  549  touch 2.txt
+  550  ls
+  551  cd ../..
+  552  pwd
+  553  cd 1804
+  554  ls
+  555  cd p3
+  556  ls
+  557  rm *
+  558  ls
+  559  cd ../..
+  560  cd 卓面
+  561  pwd
+  562  ls
+  563  cd 桌面
+  564  ls
+  565  mkdir loading
+  566  ls
+  567  cd loading
+  568  ls
+  569  touch 1.txt
+  570  touch 2.txt 
+  571  touch 3.txt
+  572  ls
+  573  tar -cvf aa.tar *
+  574  ls
+  575  rm aa.tar
+  576  ls
+  577  tar -cvf txt.tar *
+  578  ls
+  579  mkdir aa
+  580  ls
+  581  mv txt.tar aa
+  582  ls
+  583  tree
+  584  cd aa
+  585  l
+  586  ls
+  587  tar -xvf txt.tar
+  588  ls
+  589  cd ../..
+  590  mkdir loding2
+  591  ls
+  592  cd loding2
+  593  touch 4.txt
+  594  touch 5.txt
+  595  tals
+  596  ls
+  597  tar -jcvf 45txt.tar.bz2 *
+  598  ls
+  599  mv 45txt.tar.bz2 /桌面/loding
+  600  mv 45txt.tar.bz2 /桌面/loading
+  601  mv 45txt.tar.bz2 /桌面/loading/
+  602  ls
+  603  pwd
+  604  mv 45txt.tar.bz2 /home/congchao/桌面/loading
+  605  ls
+  606  cd ..
+  607  cd loading
+  608  ls
+  609  ls -l
+  610  tar -jxvf 45txt.tar.bz2
+  611  ls
+  612  ls -l
+  613  cls
+  614  ls
+  615  gzip txt.tar 1.txt 2.txt 3.txt
+  616  gzip 123txt.tar 1.txt 2.txt 3.txt
+  617  ls
+  618  touch 22.txt
+  619  touch 33.txt
+  620  tar -cvf 2222.tar 22.txt 33.txt
+  621  ls
+  622  gzip 222.tar 2222.tar 
+  623  ls
+  624  gzip 2222.tar
+  625  ls
+  626  gzip 222.tar.gz 2222.tar
+  627  ls
+  628  tar -cvf 222222.tar 22.txt 33.txt 
+  629  ls
+  630  gzip 22111.tar.gz 222222.tar
+  631  ls
+  632  gzip .tar.gz
+  633  sudo passwd
+  634  su
+  635  ls
+  636  mv 1.txt.gz -c/..
+  637  mv 1.txt.gz -c /..
+  638  tar -jcvf 1.tar.bz2 22.txt 33.txt -c/..
+  639  tar -jcvf 1.tar.bz2 22.txt 33.txt -c /..
+  640  ls
+  641  cd ..
+  642  ls
+  643  cd loadong
+  644  cd loading
+  645  ls
+  646  tar -jcvf 1.tar.bz2 22.txt 33.txt -c / ..
+  647  tar -jcvf 1.tar.bz2 22.txt 33.txt
+  648  ls
+  649  tar -jcvf 1.tar.bz2 22.txt 33.txt -c/..
+  650  tar -jcvf 1.tar.bz2 22.txt 33.txt -c /..
+  651  pwd
+  652  tar -jcvf 1.tar.bz2 22.txt 33.txt /..
+  653  clarn
+  654  clear
+  655  cd ..
+  656  ls
+  657  mkdir 1
+  658  ls
+  659  cd 1
+  660  touch 1.txt
+  661  touch 2.txt
+  662  rm 1.txt
+  663  rm 2.txt
+  664  rm 1
+  665  cd 1
+  666  mkdir 2
+  667  cd 2
+  668  touch 1.txt
+  669  touch 2.txt
+  670  ls
+  671  tar -jcvf 222.tar.bz2 -c /..
+  672  clear
+  673  ls
+  674  cd ..
+  675  ls
+  676  cd 2
+  677  rm 222.tar.bz2
+  678  ls
+  679  clear
+  680  ls
+  681  clarn
+  682  clear
+  683  cd ..
+  684  sudo passwd
+  685  su root
+  686  ls -l
+  687  sudo groupadd cc1
+  688  sudo useradd c1
+  689  ls
+  690  sudo useradd c2
+  691  sudo useradd c3
+  692  sudo useradd c4
+  693  sudo useradd c5
+  694  cat /etc/passwd
+  695  sudo group csxz
+  696  sudo groupadd csxz
+  697  cat /etc/group
+  698  suermod -g csxz cc1
+  699  ls -l
+  700  suermod -g csxz c1
+  701  su c1
+  702  su c2
+  703  sudo passwd c1
+  704  suermod -g csxz cc1
+  705  su c1
+  706  suermod -g csxz c1
+  707  usermod -g csxz c1
+  708  sudo usermod -g csxz c1
+  709  ls
+  710  ls -l
+  711  cat /etc/passwd
+  712  cat /etc/group
+  713  su c1
+  714  group c1
+  715  groups c1
+  716  sudo usermod -g csxz c2 c3 c4 c5 
+  717  sudo usermod -g csxz c2
+  718  groups c2
+  719  
+  720  pwd
+  721  ls
+  722  touch test.py
+  723  ls -l
+  724  chnod u=rwx,g=rx,o=r
+  725  chnod u=rwx,g=rx,o=r test.py
+  726  chmod u=rwx,g=rx,o=r test.py
+  727  ls -lkn
+  728  nkdir demo
+  729  mkdir demo
+  730  cd demo
+  731  ls
+  732  ls -l
+  733  cd ..
+  734  ls -l
+  735  ls
+  736  cd demo
+  737  ls -l
+  738  touch 2.xt
+  739  ls
+  740  touch 33.txt
+  741  ls
+  742  chmod u=rw,g=r,o=rx *
+  743  chmod u=rw,g=r,o=rx /桌面/demo
+  744  chmod u=rw,g=r,o=rx /home/congchao/桌面/demo
+  745  ls
+  746  ls -l
+  747  sudo ls 
+  748  ls -l
+  749  sudo ls -l
+  750  chmod u=rwx,g=rwx,o=rx /home/congchao/桌面/demo
+  751  ls -l
+  752  chmod u=rw,g=r,o=rx *
+  753  chmod u=rwx,g=rwx,o=rx *
+  754  ls
+  755  ls -l
+  756  clear
+  757  cd ..
+  758  mkdir zuoye
+  759  ls
+  760  cd zuoye
+  761  ls
+  762  touch 1.txt
+  763  touch 2.txt
+  764  touch 3.txt
+  765  touch 4.txt
+  766  touch 5.txt
+  767  ls
+  768  ls -l
+  769  chmod u=rwx,g=r,o=- 1.txt
+  770  ls -l
+  771  chmod u=wx,g=wx,orwx 2.txt
+  772  chmod u=wx,g=wx,o=rwx 2.txt
+  773  ls
+  774  ls -l
+  775  chmod u=wx,g=wx,o=rwx 3.txt
+  776  chmod u=wx,g=wx,o=rwx 4.txt
+  777  chmod u=wx,g=wx,o=rwx 5.txt
+  778  ls -l
+  779  sudo useradd 小花花
+  780  su 小花花
+  781  sudo passwd 小花花
+  782  su 小花花
+  783  history | more
+  784  pwd
+  785  ls
+  786  gedit 1.txt
+  787  gedit 2.txt
+  788  su
+  789  ls
+  790  us 小花花
+  791  su 小花花
+  792  cal
+  793  cal -y
+  794  cal -y 1995
+  795  date
+  796  date "+%q%2%3"
+  797  date "+%y%m%d"
+  798  ps -s
+  799  ps -aus
+  800  ps -aux
+  801  yop
+  802  top
+  803  init 0
+  804  ls
+  805  exit
+  806  ls
+  807  pwd
+  808  cd p222
+  809  ls
+  810  touch 2.txt
+  811  ls
+  812  ln -s 2.txt > /.. 
+  813  ln -s 2.txt > /home/congchao
+  814  ln -s 2.txt > /home/congchao/3.txt
+  815  ln -s 2.txt /home/congchao/3.txt
+  816  ls
+  817  cd ..
+  818  ls
+  819  vimtutor
+  820  sudo apt install vim-runtime
+  821  vimtutor
+  822  sudo apt remove vi
+  823  sudo apt remove vim
+  824  sudo apt-get update
+  825  sudo apt remove vi
+  826  sudo apt remove vim-runtime
+  827  sudo apt install vim
+  828  sudo apt install vim-runtime
+  829  vimtutor
+  830  vimturor
+  831  vimtutor
+  832  vim xiaohuahua.txt
+  833  sudo apt install git
+  834  git clone --depth=1 http://github.com/amix/vimrc.git~/.vim_runtime
+  835  sh ~/.vim_runtime/install_awesome_vimrc.sh
+  836  git clone --depth=1 https://github.com/amix/vimrc.git ~/.vim_runtime
+  837  sh ~/.vim_runtime/install_awesome_vimrc.sh
+  838  vim xiaohuahua.txt
+  839  pwd
+  840  ls
+  841  cd p111
+  842  cd ~
+  843  la
+  844  ls
+  845  mv 1.txt /p111
+  846  sudo mv 1.txt /p111
+  847  ls
+  848  cd p111
+  849  ls
+  850  cd ..
+  851  tree
+  852  mkdir test
+  853  ls
+  854  touch test
+  855  ls
+  856  pwd
+  857  ls
+  858  touch test.txt
+  859  ls
+  860  mv test.txt /test
+  861  sudo mv test.txt /test
+  862  ls
+  863  cd test
+  864  ls
+  865  cd ..
+  866  ls
+  867  touch test.txt
+  868  ls
+  869  mv test.txt test/
+  870  ls
+  871  cd test
+  872  ls
+  873  touch a.txt/b.txt
+  874  touch a.txt/b.txt/
+  875  touch a.txt b.txt
+  876  ls
+  877  makdir c d
+  878  mkdir c/d/
+  879  mkdir c/ d/
+  880  ls
+  881  pwd
+  882  vi xiaohuahua
+  883  init0
+  884  exit
+  885  vimtutor
+  886  1804/p3~
+  887  who
+  888  whoami
+  889  id
+  890  ls
+  891  sudo -s
+  892  us root
+  893  su root
+  894  cat /etc/passwd
+  895  su test
+  896  sudo passwd
+  897  su test
+  898  suso passwd test
+  899  sudo passwd test
+  900  su test
+  901  sudo passwd test -m
+  902  vi
+  903  vi test
+  904  cd
+  905  pwd
+  906  useradd con -m
+  907  useradd -m con
+  908  sudo user con -m
+  909  sudo useradd con -m
+  910  su useradd
+  911  su con
+  912  passwd con
+  913  sudo passwd con
+  914  su con
+  915  vimtutor
+  916  pwd
+  917  ls
+  918  cd 桌面
+  919  lss
+  920  ls
+  921  mkdir modo1
+  922  rm -r modo1
+  923  ls
+  924  mkdir -p demo/b/c
+  925  ls
+  926  cd demo/b/c
+  927  touch 02.py
+  928  ls
+  929  rm 02.py
+  930  ls
+  931  touch 02.py
+  932  ls
+  933  cd ~
+  934  ls
+  935  pwd
+  936  cd 桌面
+  937  ln -s /home/congchao//桌面/demo/b/c/02.py FirstLink
+  938  ls
+  939  ln -s /home/congchao/桌面/FirstLink FirstLink1
+  940  ls
+  941  ln -s ./FirstLink FirstLink2
+  942  ls
+  943  pwd
+  944  ls
+  945  mv /home/congchao/桌面/FirstLink /home/congchao/桌面/demo
+  946  tree
+  947  cat FirstLink
+  948  gedit FirstLink
+  949  cat FirstLink
+  950  cat 02.py
+  951  gedit 02.py
+  952  cat 02.py
+  953  cat FirstLink
+  954  cat FirstLink1
+  955  cat FirstLink2
+  956  rm FirstLink
+  957  cat FirstLink1
+  958  FirstLink2
+  959  cat FirstLink2
+  960  cat FirstLink
+  961  cd demo/b/c
+  962  ls
+  963  touch 01.py
+  964  ls
+  965  cd ../..
+  966  ln /home/congchao/桌面/demo/b/c/01.py 01had
+  967  ls -l
+  968  ls
+  969  rm  /home/congchao/桌面/demo/b/c/01.py
+  970  tree
+  971  cd ~
+  972  pwd
+  973  la
+  974  cd 1804
+  975  ls
+  976  touch wjm.txt
+  977  ls
+  978  /home/congchao/usr/bin > /home/congchao/1804/wjm.txt
+  979  cd ..
+  980  ls
+  981  cd p1804
+  982  touch tree.txt
+  983  ls
+  984  tree p1804 > tree.txt
+  985  gedit tree.txt
+  986  tree  > tree.txt
+  987  gedit tree.txt
+  988  cd
+  989  cd  
+  990  ls
+  991  cat /etc/passwd
+  992  ls
+  993  pwd
+  994  touch 123.txt
+  995  ls
+  996  ifconfig
+  997  scp con@10.0.2.15 /home/con/11
+  998  scp con@10.0.2.15:/home/con/11
+  999  scp -r p111 con@10.0.2.15:/home/con/11
+ 1000  scp con@10.0.2.15:/home/con/11/wb.txt ./
+ 1001  ls
+ 1002  cd 1804
+ 1003  ls
+ 1004  scp -r con@10.0.2.15:/home/con/11 ./p3
+ 1005  tree
+ 1006  ls
+ 1007  cd p3
+ 1008  ls
+ 1009  cd 11
+ 1010  ls
+ 1011  cd ~
+ 1012  cd _
+ 1013  cd -
+ 1014  cd `
+ 1015  cd 
+ 1016  ping www.baidu.com
+ 1017  ifconfig
+ 1018  ps 
+ 1019  ps -s
+ 1020  vimtutor
+ 1021  su 0506n
+ 1022  userdel 0506n
+ 1023  sudo userdel 0506n
+ 1024  sudo userdel -r 0506n
+ 1025  exit
+ 1026  ls
+ 1027  mkdir 1
+ 1028  ls
+ 1029  rm -r 1
+ 1030  ls
+ 1031  mkdir 1
+ 1032  ls
+ 1033  rm -f 1
+ 1034  cd 1
+ 1035  mkdir 2
+ 1036  ls
+ 1037  cd 3
+ 1038  mkdir 3
+ 1039  cd 
+ 1040  tree
+ 1041  tree 1
+ 1042  rm -r 1
+ 1043  tree 1
+ 1044  ls
+ 1045  mkdir 1/2/3
+ 1046  mkdir 1/2/3/
+ 1047  mkdir -p 1/2/3/
+ 1048  ls 1
+ 1049  tree 1
+ 1050  cd 1/2/3/
+ 1051  ls
+ 1052  touch 1.txt
+ 1053  ls
+ 1054  cd 
+ 1055  rm -r 1
+ 1056  ls
+ 1057  cd 1
+ 1058  ls
+ 1059  pwd
+ 1060  ls
+ 1061  touch a.txt
+ 1062  ls
+ 1063  ls -ls
+ 1064  chmod r=7,w=6,x=0 a.txt
+ 1065  sudo chmod r=7,w=6,x=0 a.txt
+ 1066  sudo chmod 760 1.txt
+ 1067  sudo chmod 760 a.txt
+ 1068  ls
+ 1069  ls -ls
+ 1070  sudo chmod u=rwx,g=rw-,o=--- a.txt
+ 1071  ls
+ 1072  ls -ls
+ 1073  sudo chmod u=rwx,g=rw-,o=rw- a.txt
+ 1074  ls ls
+ 1075  ls -ls
+ 1076  ls 
+ 1077  mkdir a
+ 1078  mv a.txt a
+ 1079  la
+ 1080  ls
+ 1081  cd a 
+ 1082  ls
+ 1083  touch b.py
+ 1084  ls
+ 1085  tar -cvf aaa.tar *
+ 1086  ls
+ 1087  tar -xcf aaa.tar *
+ 1088  tar -xcf aaa.tar
+ 1089  tar -xvf aaa.tar
+ 1090  ls
+ 1091  gzip -cvf aa1a.tat.gz aaa.tar
+ 1092  ls
+ 1093  gzip -d aaa.tar.zp
+ 1094  gzip -d aaa.tar.gz
+ 1095  ls
+ 1096  tar -zcvf a.tar.bz a.txt b.py
+ 1097  ls
+ 1098  tar -zxcvf a.tar.bz -C /home/congchao
+ 1099  tar -zxvf a.tar.bz -C /home/congchao
+ 1100  ls
+ 1101  cd ..
+ 1102  ls
+ 1103  ccd -
+ 1104  cd -
+ 1105  ls
+ 1106  tar -cvf A.tar a.txt b.py
+ 1107  ls
+ 1108  tar -xcvf A.tar
+ 1109  tar -xvf A.tar
+ 1110  ls
+ 1111  gzip A.tar
+ 1112  ls
+ 1113  gzip -d A.tar
+ 1114  ls
+ 1115  tar -jvf B.tar.bz2 a.txt b.py
+ 1116  tar -jcvf B.tar.bz2 a.txt b.py
+ 1117  ls
+ 1118  tar -jxvf B.tar.bz2 
+ 1119  ls
+ 1120  cd 
+ 1121  useradd 0506n
+ 1122  sudo useradd 0506n
+ 1123  sudo passwd 0506n
+ 1124  su - 0506n
+ 1125  useradd 0506n1 -m
+ 1126  sudo useradd 0506n1 -m
+ 1127  sudo passwd 0506n1 -m
+ 1128  sudo passwd 0506n1
+ 1129  su 0506n1
+ 1130  sudo usermod -g c1 0506n1
+ 1131  groups 0506n1 
+ 1132  cd 
+ 1133  ls
+ 1134  ls -ls b,py
+ 1135  ls -ls b.py
+ 1136  chgrp c1 b.py 
+ 1137  sudo chgrp c1 b.py
+ 1138  ls -ls b.py
+ 1139  sudo chwon 0506n1 b.py
+ 1140  sudo chown 0506n1 b.py
+ 1141  sudo -sl b.py
+ 1142  sudo -ls b.py
+ 1143  ls -ls b.py
+ 1144  vim vi
+ 1145  ls
+ 1146  grep '1' 1111.txt
+ 1147  grep ‘1’ 1111.txt
+ 1148  gedit 1111.txt
+ 1149  init 0
+ 1150  reboot
+ 1151  git remote add origin https://github.com/www111111/workspace.git
+ 1152  echo "# workspace" >> README.md
+ 1153  ls
+ 1154  git init
+ 1155  git add README.md
+ 1156  ls
+ 1157  git commit -m "first commit"
+ 1158  echo "# workspace" >> README.md
+ 1159  git init
+ 1160  git add README.md
+ 1161  ls
+ 1162  git commit -m "first commit"
+ 1163  git remote add origin https://github.com/www111111/workspace.git
+ 1164  git commit -m "first commit"  
+ 1165  history
+ 1166  echo "# workspace" >> README.md
+ 1167  git init
+ 1168  git add README.md
+ 1169  ls
+ 1170  git commit -m "first commit"
+ 1171  git remote add origin https://github.com/www111111/workspace.gi
+ 1172  git push -u origin master
+ 1173  git remote add origin https://github.com/www111111/workspace.git
+ 1174  git push -u origin master
+ 1175  clear
+ 1176  echo "# workspace" >> README.md
+ 1177  git init
+ 1178  git add README.md
+ 1179  ls
+ 1180  pwd
+ 1181  git commit -m "first commit"
+ 1182  git remote add origin https://github.com/www111111/workspace.git
+ 1183  git push -u origin master
+ 1184  histoy
+ 1185  history
+ 1186  history > 0507test.txt
+ 1187  cat 0507test.txt
+ 1188  vi 0507test.txt
+ 1189  ls
+ 1190  cd p1804
+ 1191  ls
+ 1192  grep 'a*' 333.txt
+ 1193  The shared folder 'aaa' could not be set up: Shared folder path 'D:\aaa' does not exist on the host.
+ 1194  The shared folder setup will not be complete. It is recommended to power down the virtual machine and fix the shared folder settings while the machine is not running.
+ 1195  ls
+ 1196  grep 'a*' 333.txt
+ 1197  ls 'a*' 333.txt
+ 1198  cd 0507
+ 1199  ls
+ 1200  touch congchao
+ 1201  ls
+ 1202  vi congchao
+ 1203  cat congchao
+ 1204  ls
+ 1205  git add .
+ 1206  git comit -m 'beizhu'
+ 1207  git commit -m 'beizhu'
+ 1208  git push -u origin master
+ 1209  ls
+ 1210  vi README.md
+ 1211  git add README.md
+ 1212  git commit -m 'beizhu'
+ 1213  git push -u origin master
+ 1214  git add README.md u
+ 1215  u
+ 1216  ls
+ 1217  mkdir test
+ 1218  ls
+ 1219  cd test 
+ 1220  ls
+ 1221  touch 1.txt
+ 1222  ls
+ 1223  cd ..
+ 1224  ls
+ 1225  git add test
+ 1226  git commit -m 'cc;
+ 1227  q
+ 1228  git commit -m 'cc'
+ 1229  git push -u origin master
+ 1230  git add test
+ 1231  git commit 
+ 1232  ls
+ 1233  1.txt
+ 1234  touch 1.txt
+ 1235  git add 1.txt
+ 1236  git commit
+ 1237  ls
+ 1238  cd cc_teat
+ 1239  cd cc_test/
+ 1240  ls
+ 1241  histroy
+ 1242  history
+ 1243  ls
+ 1244  cd ..
+ 1245  ls
+ 1246  pwd
+ 1247  git add /home/congchao/cc_test/cc.txt
+ 1248  git commit -m cc
+ 1249  git push -u origin master
+ 1250  ls
+ 1251  cd cc_test
+ 1252  ls
+ 1253  git add cc.txt
+ 1254  git commit -m 'aa'
+ 1255  git push -u origin master
+ 1256  ls
+ 1257  cd ..
+ 1258  ls
+ 1259  ifcofig
+ 1260  ifconfig
+ 1261  ls
+ 1262  cd cc_test
+ 1263  ls
+ 1264  rm 1.txt
+ 1265  ls
+ 1266  gid commit -m 'cc'
+ 1267  git commit -m 'cc'
+ 1268  git push -u origin maste
+ 1269  ls
+ 1270  git push -u origin maste
+ 1271  ls
+ 1272  touch 1.txt
+ 1273  ls
+ 1274  git rm 1.txt
+ 1275  git commit -m 'cc'
+ 1276  git push -u origin master
+ 1277  ls
+ 1278  mkdir 1
+ 1279  ls
+ 1280  git add 1
+ 1281  git connit -m 'c'
+ 1282  git commit -m 'c'
+ 1283  git push -u origin master
+ 1284  git commit -m 'c'
+ 1285  git commit -m 'qwe'
+ 1286  git add 1
+ 1287  git commit -m 'qq'
+ 1288  ls
+ 1289  cd 1
+ 1290  ls
+ 1291  cd ..
+ 1292  rm 1
+ 1293  rm -f 1
+ 1294  rm -rf 1
+ 1295  ls
+ 1296  mkdir qqq
+ 1297  ls
+ 1298  git add qqq
+ 1299  git commit -m 'q'
+ 1300  git add .
+ 1301  git commit -m 'cc'
+ 1302  cd qqq
+ 1303  git add .
+ 1304  cd ..
+ 1305  ls
+ 1306  git add qqq
+ 1307  git commit -m 'cc'
+ 1308  cd ..
+ 1309  ls
+ 1310  cd cc_test
+ 1311  ls
+ 1312  cd qqq
+ 1313  touch 1.txt
+ 1314  ls
+ 1315  cd ..
+ 1316  git add qqq
+ 1317  git commit -m 'a'
+ 1318  git push -u origin master
+ 1319  ls
+ 1320  git rm -rf qqq
+ 1321  git commit -m 'cc'
+ 1322  git push -u origin master
+ 1323  ls
+ 1324  cd cc.txt
+ 1325  cat cc.txt
+ 1326  cd ..
+ 1327  ls
+ 1328  cd 1804
+ 1329  ls
+ 1330  cat 1111.txt
+ 1331  ls a* 1111.txt
+ 1332  ls 'a*' 1111.txt
+ 1333  ls
+ 1334  ls a*
+ 1335  ls te*
+ 1336  ls te *
+ 1337  ls a*
+ 1338  ls a *
+ 1339  cd p3
+ 1340  ls
+ 1341  ls a*
+ 1342  ls
+ 1343  ls a
+ 1344  ls a*
+ 1345  cd 
+ 1346  ls
+ 1347  ls a*
+ 1348  ls a* 123.txt
+ 1349  cd p111
+ 1350  ls
+ 1351  ls a*
+ 1352  ls a* a.txt
+ 1353  cd ..
+ 1354  ls
+ 1355  histroy > 000.txt
+ 1356  history > 000.txt

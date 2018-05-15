@@ -1,0 +1,230 @@
+总用量 8
+-rw-rw-r-- 1 congchao congchao    0 4月  27 11:12 02
+-rw-rw-r-- 1 congchao congchao 6328 4月  27 11:17 1.txt
+-rw-rw-r-- 1 congchao congchao    0 4月  27 11:18 2.txt
+-rw-rw-r-- 1 congchao congchao    0 4月  27 11:13 y01
+02
+1.txt
+2.txt
+y01
+    1  ping www.baidu.com
+   10  touch 01.txt
+   11  ls
+   12  pwd
+   13  mkdir p1804
+   14  cd p1804/
+   15  touch 1.rar
+   16  ls
+   17  touch 1.txt
+   18  ls
+   19  touch 1.ppt
+   21  rm 1.txt
+   27  .. p1804
+   29  cd/p1805
+   31  cd/congchao/
+   32  cd/p1804
+   33  cd p1804/
+   35  mkdir p1803
+   38  cd p1803/
+   41  ..
+   47  cd p123
+   48  mkdir p123
+   50  cd p123
+   51  ls
+   53  touch 1.txt
+   57  .. p123
+   61  mkdir p11345
+   63  cd p11345
+   65  touch 112.txt
+   70  mkdir p111
+   71  mkdir p222
+   73  cd p111
+   81  cd p333
+   91  pwd
+   93  mkdir p1111
+   94  cd p111
+  100  cd ..
+  101  pwd
+  102  cd .
+  103  pwd
+  104  cd .
+  105  cd ..
+  106  pwd
+  107  cd p222
+  108  pwd
+  109  cd .
+  110  pwd
+  111  ls
+  112  pwd
+  113  cd .
+  114  pwd
+  115  cd home
+  116  list -a
+  117  ls -a
+  118  list -a
+  119  cd ~
+  120  list -a
+  121  list -b
+  122  list -a
+  123  pwd
+  124  man
+  125  man-ls
+  126  man -ls
+  127  man ls
+  128  man rm
+  129  pwd
+  130  mkdir
+  131  mkdir p111
+  132  mkdir p2345
+  133  cd p2345
+  134  pwd
+  135  rmdir p2345
+  136  pwd
+  137  mkdir p3456
+  138  cd  p3456
+  139  pwd
+  140  rmdir p3456
+  141  touch 1.txt
+  142  pwd
+  143  ls
+  144  rm 1.txt
+  145  ls
+  146  pwd
+  147  man rmdir
+  148  rm*
+  149  ls
+  150  pwwd
+  151  pwd
+  152  rmdir 
+  153  rmdir p3456
+  154  rmdir p2345
+  155  rm -rf
+  156  pwd
+  157  rmdir p3456
+  158  ls
+  159  cd ..
+  160  pwd
+  161  rmdir p3456
+  162  pwd
+  163  cd p3456
+  164  mkdir p666
+  165  cd p666
+  166  pwd
+  167  cd ..
+  168  pwd
+  169  cd p666
+  170  pwd
+  171  mkdir p111
+  172  mkdirp12345
+  173  pwd
+  174  cd p12345
+  175  mkdir laowang
+  176  pwd
+  177  cd laowang
+  178  pwd
+  179  mkdir -p
+  180  mkdir -p/laowang/wang1/wang2
+  181  man mkdir
+  182  mkdir -p/wang1/
+  183  mkdir -p 1/2/3
+  184  tree 1
+  185  rm -rf
+  186  pwd
+  187  ls
+  188  rm -rf *
+  189  ls
+  190  pwd
+  191  ls
+  192  pwd
+  193  cd ..
+  194  pwd
+  195  ls
+  196  rm*
+  197  rm *
+  198  rm 1.txt
+  199  rm 01.txt
+  201  ls
+  210  pwd
+  211  mkdir test
+  212  pwd
+  213  cd test
+  214  pwd
+  215  mkdir -p aa/hello
+  216  pwd
+  217  cd aa
+  218  pwd
+  219  cd aa
+  221  cd hello
+  231  pwd
+  241  rm -r test
+  249  mkdir p1804
+  250  cd p1804
+  251  pwd
+  252  mkdir 01day
+  253  cd 01day
+  261  cd ../../../..
+  268  mkdir p1804
+  269  cd p1804
+  271  cd 01 day
+  272  cd 01day
+  273  mkdir 01day
+  274  cd 01day
+  280  touch 1laopo
+  281  tpuch 2laopo
+  291  cd laowang
+  301  pwd
+  307  cp 1laopo daqiao xiaoqiao
+  308  cp 1laopo daqiao 
+  310  cp 1laopo xiaoqiao
+  311  la
+  312  ls
+  313  lb
+  314  la
+  315  ls
+  316  cd ..
+  317  pwd
+  318  mkdir 2laopo
+  319  ls
+  321  pwd
+  331  cd 01day
+  332  cd p1804
+  333  cd 01dy
+  336  cd 01day
+  341  pwd
+  351  pwd
+  353  touch 1.py
+  361  mkdir a/b/c/d/ab/dc/abc
+  371  ls
+  381  mkdir -p a b c  d ab dc abc
+  391  ls tea*
+  401  tree
+  404  gedt 1.txt
+  408  cd p1804
+  410  cd 01day
+  411  pwd
+  412  mkdir 01
+  413  pwd
+  414  cd o1
+  415  cd 01
+  416  pwd
+  417  ln 01 s01
+  418  cd ..
+  419  pwd
+  420  ln 01 s01
+  421  cd 01
+  425  ln 02 s01
+  427  ln -s 02 s01
+  430  cd 01
+  431  touch 06
+  433  ln -s 06 s01
+  434  rm s01
+  436  ln -s 06 s01
+  438  ln 06 y01
+  441  ls
+  442  gedit y01
+  443  rm s01
+  446  history > 1.txt
+-rw-rw-r-- 1 congchao congchao    0 4月  27 11:12 02
+-rw-rw-r-- 1 congchao congchao 6328 4月  27 11:17 1.txt
+-rw-rw-r-- 1 congchao congchao    0 4月  27 11:18 2.txt
+-rw-rw-r-- 1 congchao congchao    0 4月  27 11:13 y01

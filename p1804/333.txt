@@ -1,0 +1,527 @@
+    1  ping www.baidu.com
+    2  list
+    3  ls
+    4  ls -a
+    5  ls -l
+    6  ls
+    7  ls -l
+    8  cd
+    9  cd/home/cd
+   10  touch 01.txt
+   11  ls
+   12  pwd
+   13  mkdir p1804
+   14  cd p1804/
+   15  touch 1.rar
+   16  ls
+   17  touch 1.txt
+   18  ls
+   19  touch 1.ppt
+   20  ls
+   21  rm 1.txt
+   22  ls
+   23  rm *
+   24  ls
+   25  pwd
+   26  .. 
+   27  .. p1804
+   28  pwd
+   29  cd/p1805
+   30  cd/congchao
+   31  cd/congchao/
+   32  cd/p1804
+   33  cd p1804/
+   34  pwd
+   35  mkdir p1803
+   36  ls
+   37  pwd
+   38  cd p1803/
+   39  ls
+   40  pwd
+   41  ..
+   42  touch 2.txt
+   43  ls
+   44  rm 2.txt
+   45  ls
+   46  pwd
+   47  cd p123
+   48  mkdir p123
+   49  ls
+   50  cd p123
+   51  ls
+   52  pwd
+   53  touch 1.txt
+   54  ls
+   55  ..
+   56  pwd
+   57  .. p123
+   58  pwd
+   59  cd ..
+   60  pwd
+   61  mkdir p11345
+   62  pwd
+   63  cd p11345
+   64  pwd
+   65  touch 112.txt
+   66  ls
+   67  pwd
+   68  cd ~
+   69  pwd
+   70  mkdir p111
+   71  mkdir p222
+   72  pwd
+   73  cd p111
+   74  pwd
+   75  cd p222
+   76  mkdir p222
+   77  cd p222
+   78  pwd
+   79  mkdir p333
+   80  pwd
+   81  cd p333
+   82  pwd
+   83  rm p333
+   84  cd ..
+   85  pwd
+   86  cd~
+   87  cd ~
+   88  pwd
+   89  cd .
+   90  ped
+   91  pwd
+   92  mkidr p222
+   93  mkdir p1111
+   94  cd p111
+   95  pwd
+   96  cd p222
+   97  pwd
+   98  cd .
+   99  pwd
+  100  cd ..
+  101  pwd
+  102  cd .
+  103  pwd
+  104  cd .
+  105  cd ..
+  106  pwd
+  107  cd p222
+  108  pwd
+  109  cd .
+  110  pwd
+  111  ls
+  112  pwd
+  113  cd .
+  114  pwd
+  115  cd home
+  116  list -a
+  117  ls -a
+  118  list -a
+  119  cd ~
+  120  list -a
+  121  list -b
+  122  list -a
+  123  pwd
+  124  man
+  125  man-ls
+  126  man -ls
+  127  man ls
+  128  man rm
+  129  pwd
+  130  mkdir
+  131  mkdir p111
+  132  mkdir p2345
+  133  cd p2345
+  134  pwd
+  135  rmdir p2345
+  136  pwd
+  137  mkdir p3456
+  138  cd  p3456
+  139  pwd
+  140  rmdir p3456
+  141  touch 1.txt
+  142  pwd
+  143  ls
+  144  rm 1.txt
+  145  ls
+  146  pwd
+  147  man rmdir
+  148  rm*
+  149  ls
+  150  pwwd
+  151  pwd
+  152  rmdir 
+  153  rmdir p3456
+  154  rmdir p2345
+  155  rm -rf
+  156  pwd
+  157  rmdir p3456
+  158  ls
+  159  cd ..
+  160  pwd
+  161  rmdir p3456
+  162  pwd
+  163  cd p3456
+  164  mkdir p666
+  165  cd p666
+  166  pwd
+  167  cd ..
+  168  pwd
+  169  cd p666
+  170  pwd
+  171  ls
+  172  cd p1804
+  173  ls
+  174  lainxi
+  175  cd lianxi
+  176  ls
+  177  pwd
+  178  ln .demo/b/c/01day 01_hard
+  179  tree demo
+  180  cd demo
+  181  ls
+  182  cd c
+  183  pwd
+  184  cd b
+  185  cd c
+  186  ls
+  187  mkdir 01.py
+  188  ls
+  189  cd ..
+  190  cd..
+  191  cd ..
+  192  ln .b/c/01.py
+  193  ln ./b/c/01.py
+  194  ln .b/c/01.py
+  195  ln .b/c/01.py 01_hand
+  196  ln ./b/c/01.py 01_hand
+  197  ln ./b/c/01.py ln ./b/c/ 01_hand_
+  198  ln .b/c/01.py ln .b/c/ 01_hand
+  199  ln .b/c/01.py ..01_hand
+  200  cd ..
+  201  pwd
+  202  ln /home/congchao/p1804/lianxi/demo/b/c/01.day /home/congchao/p1804/lianxi/demo/b/c/01_hard
+  203  cd demo
+  204  cd b
+  205  cd c
+  206  ls
+  207  pwd
+  208  ln 01.py 01_hard
+  209  tree
+  210  ln /home/congchao/p1804/lianxi/demo/b/c/01.py /home/congchao/p1804/lianxi/demo/01_hard
+  211  ln /home/congchao/p1804/lianxi/demo/b/c/01.py 01_hard
+  212  ln ~/home/congchao/p1804/lianxi/demo/b/c/01.py ~/home/congchao/p1804/lianxi/demo/01_hard
+  213  ls
+  214  ln ~/p1804/lianxi/demo/b/c/01.py ~/p1804/lianxi/demo/01_hard
+  215  pwd
+  216  ls
+  217  ln /home/congchao/p1804/lianxi/demo/b/c/01.py /home/congchao/p1804/lianxi/demo/01_hard
+  218  pwd
+  219  ls
+  220  ln .01.py 01_hard
+  221  cd..
+  222  cd ..
+  223  tree
+  224  cd 01.py
+  225  cd b
+  226  cd c
+  227  ls
+  228  touch 01.py
+  229  ls
+  230  cd 01.py
+  231  cd ..
+  232  rm 01.py
+  233  rm -rf 01.py
+  234  ls
+  235  touch 01.py
+  236  ls
+  237  cd ..
+  238  ln ./b/c/01.py 01_hard
+  239  ls
+  240  cd b
+  241  cd d
+  242  cd c
+  243  ls
+  244  cd ..
+  245  ls -l
+  246  tree
+  247  rm /b/c/01.py
+  248  rm -rf /b/c/01.py
+  249  tree
+  250  ls
+  251  tree
+  252  cd b
+  253  cd c
+  254  ls
+  255  rm 01.py
+  256  ls
+  257  rd ../..
+  258  rd ..
+  259  cd ../..
+  260  ree
+  261  tree
+  262  /usr/bin
+  263  cd usr
+  264  rd
+  265  cd
+  266  pwd
+  267  /home/congchao/usr/bin > /home/congchao/P1804/P02/文件名.txt
+  268  /home/congchao/usr/bin > /home/congchao/P1804/文件名.txt
+  269  cd p1804
+  270  ls
+  271  /usr/bin > /home/congchao/P1804/文件名.txt
+  272  /usr/bin > /home/congchao/p1804/文件名.txt
+  273  /home/congchao/usr/bin > /home/congchao/p1804/P02/文件名.txt
+  274  /home/congchao/usr/bin > /home/congchao/p1804/文件名.txt
+  275  /home/congchao > /home/congchao/p1804/文件名.txt
+  276  ls
+  277  /home/congchao/p1804 > /home/congchao/p1804/文件名.txt
+  278  ls /home/congchao/p1804 > /home/congchao/p1804/文件名.txt
+  279  ls
+  280  edit 文件名.txt
+  281  ls
+  282  cd p1804
+  283  ls
+  284  editt 文件名.txt
+  285  edit 文件名.txt
+  286  pwd
+  287  ls
+  288  cd p1804
+  289  ls
+  290  history
+  291  clern
+  292  clarn
+  293  clear
+  294  pwd
+  295  history > 1111.txt
+  296  pwd
+  297  /home/congchao/p1804
+  298  /home/congchao/p1804/1111.txt > /home/congchao/p1804/999,txt
+  299  /home/congchao/p1804/1111.txt > /home/congchao/p1804/999.txt
+  300  cd ..
+  301  cd p1804
+  302  ls
+  303  cd lianxi
+  304  /home/congchao/p1804/1111.txt > /home/congchao/p1804/999.txt
+  305  ls
+  306  cd demo
+  307  touch 111.txt
+  308  ls
+  309  pwd
+  310  /home/congchao/p1804/lianxi/demo/111.txt > /home/congchao/p1804/lianxi/demo 222.txt
+  311  ls
+  312  tree
+  313  pwd
+  314  ls
+  315  rm p2345
+  316  rm -rf p2345
+  317  ls
+  318  pwd
+  319  ls
+  320  mkdir q
+  321  ls
+  322  rm -rf q
+  323  ls
+  324  mkdir laowang1
+  325  ls
+  326  cd laowang1
+  327  cd ..
+  328  pwd
+  329  mkdir dalaopo
+  330  ls
+  331  mkdir xiaolaopo
+  332  ls
+  333  mv dalaopo laowang1
+  334  cd laowang1
+  335  ls
+  336  cd ..
+  337  ls
+  338  cd laowang1
+  339  ls
+  340  cp dalaopo /congchao/daqiao
+  341  cp dalaopo congchao/daqiao/
+  342  cp dalaopo /congchao/daqiao/
+  343  cp dalaopo /home/congchao/daqiao
+  344  cp dalaopo /home/congchao/daqiao/
+  345  cp /home/congchao/dalaopo /home/congchao/daqiao
+  346  cp /home/congchao/laowang1/dalaopo /home/congchao/daqiao
+  347  pwd
+  348  cd ..
+  349  pwd
+  350  cp /home/congchao/laowang1/dalaopo /home/congchao/daqiao
+  351  pwd
+  352  cp laowang1/dalaopo /home/congchao/daqiao
+  353  cd laowang1
+  354  ls
+  355  cp dalaopo daqiao
+  356  cp .dalaopo daqiao
+  357  pwd
+  358  cd ..
+  359  pwd
+  360  ls
+  361  cd laowang
+  362  ls
+  363  pwd
+  364  ls
+  365  cd laowang1
+  366  cd ..
+  367  cd laowang1
+  368  ls
+  369  cp .dalaopo .daqiao
+  370  cp laowang1.dalaopo daqaio
+  371  cd p111
+  372  cd dalaopo
+  373  cp .dalaopo daqiao
+  374  cd ..
+  375  ls
+  376  cd .dalaopo x
+  377  cd ..
+  378  ls
+  379  cd p1804
+  380  ls
+  381  cd 01day
+  382  ls
+  383  cd ../..
+  384  pwd
+  385  la
+  386  ls
+  387  cd laowang1
+  388  ls
+  389  cp ./dalaopo ./da
+  390  mv ./dalaopo ./
+  391  mv ./dalaopo ../laowang1
+  392  man cp
+  393  cp ./dalaopo ../ da
+  394  clran
+  395  clern
+  396  carn
+  397  clarn
+  398  clean
+  399  clarn
+  400  clear
+  401  ls
+  402  cp dalaopo daqiao
+  403  cp dalaopo ./daqiao
+  404  cp .dalaopo ./daqiao
+  405  clern
+  406  clarn
+  407  clear
+  408  ls
+  409  pwd
+  410  mkdir A
+  411  ls
+  412  rm dalaopo A
+  413  rm .dalaopo .A
+  414  rm ./dalaopo ./A
+  415  rm dalopo ./A/
+  416  cp dalopo ./A/
+  417  clear
+  418  cd ..
+  419  pwd
+  420  ls
+  421  cd 桌面
+  422  ls
+  423  touch 02.py
+  424  ls
+  425  mkdir -p demo/b/c
+  426  tree
+  427  ln -s 02.py ./demo/b/c
+  428  ls
+  429  tree
+  430  pwd
+  431  ln -s /home/congchao/桌面/demo/b/c/02.py 1fist
+  432  tree
+  433  ln -s ./02.py 2first
+  434  tree
+  435  pwd
+  436  ls
+  437  cd first
+  438  edyt first
+  439  edit 2first
+  440  mv 1fist ./demo/
+  441  ls
+  442  cd usr
+  443  cd ..
+  444  ls
+  445  cd 桌面
+  446  mkdir /usr/bin
+  447  cd usr
+  448  mkdir ./usr/bin
+  449  mkdir usr
+  450  ls
+  451  rm usr
+  452  rm -rf usr
+  453  mkdir -p /usr/bin
+  454  ls
+  455  pwd
+  456  cd ..
+  457  pwd
+  458  cd 桌面
+  459  ls
+  460  cd 未命名文件夹
+  461  ls
+  462  cd ..
+  463  mkdir -p /usr/bin
+  464  ls
+  465  mkdir usr
+  466  ls
+  467  cd usr
+  468  mkdir bin
+  469  ls
+  470  mkdir 1.txt
+  471  ls
+  472  rm -rf 1,txt
+  473  ls
+  474  rm -rf 1.txt
+  475  ls
+  476  cd bin
+  477  touch 1.txt
+  478  ls
+  479  cd ../..
+  480  /桌面/usr/bin/ > /home/congchao/p1804
+  481  /桌面/usr/bin/ > /home/congchao/p1804/
+  482  cd ..
+  483  pwd
+  484  ls
+  485  cd p1804
+  486  ls
+  487  touch 333.txt
+  488  ls
+  489  /桌面/usr/bin/ > /home/congchao/p1804/333.txt
+  490  /桌面/usr/bin/1.txt > /home/congchao/p1804/
+  491  /桌面/usr/bin/1.txt > /home/congchao/p1804/333.txt
+  492  /桌面/usr/bin/1.txt/ > /home/congchao/p1804/333.txt
+  493  /桌面/usr/bin > /home/congchao/p1804/333.txt
+  494  history
+  495  cd ..
+  496  /桌面/usr/bin/1.txt/ > /home/congchao/p1804/333.txt
+  497  cat /桌面/usr/bin/1.txt/ > /home/congchao/p1804/333.txt
+  498  cat /home/桌面/usr/bin/1.txt/ > /home/congchao/p1804/333.txt
+  499  cd usr
+  500  cd
+  501  cd 桌面
+  502  cd usr
+  503  cd bin
+  504  ls
+  505  cat /桌面/usr/bin/1.txt/ > /home/congchao/p1804/333.txt
+  506  cd ~
+  507  cat /桌面/usr/bin/1.txt/ > /home/congchao/p1804/333.txt
+  508  cd /桌面/usr/bin
+  509  cd 桌面
+  510  cd usr
+  511  cd bin
+  512  ls
+  513  1.txt > /home/congchao/p1804/333.txt
+  514  mkdir 2222.txt
+  515  ls
+  516  touch 2222.txt
+  517  2222.txt > /home/congchao/p1804/333.txt
+  518  .2222.txt > /home/congchao/p1804/333.txt
+  519  ls
+  520  touch 222.txt
+  521  ls
+  522  222.txt > /home/congchao/p1804/333.txt
+  523  cd ..
+  524  .222.txt > /home/congchao/p1804/333.txt
+  525  cd bin
+  526  ls
+  527  history > 222.txt
