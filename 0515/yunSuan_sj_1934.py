@@ -6,13 +6,19 @@ def cengfa(x,y):
     return x*y
 def chufa(x,y):
     return x/y
-print('欢迎来到小艾超级计算机')
+print('AAAI')
 a=int(input('shurucengshu'))
 while(True):
     fuHao=input('shurufuhao')
+    con=1
     while(fuHao!='+' and fuHao!='-' and fuHao!='*' and fuHao!='/' and fuHao!= 'q'):
         print('符号输入错误 请重新输入')
         fuHao=input('shurufuhao')
+        con  =con  + 1
+        if(con==3):
+            break
+    if(con==3):
+        break
     if(fuHao=='q'):
         break
     b=int(input('shurubeicengshu'))
