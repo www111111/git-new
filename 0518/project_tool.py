@@ -29,24 +29,27 @@ def display_xiaos():#显示销售的产品
 
 
 def displayAll():#显示已点菜品函数
-    print('*'*30)
+   # print('*'*30)
     print('所点菜名如下 ： ')
     for a in lis:    #遍历列表查找相应的菜单
         print('菜名 :%s '% a['caiMing']) #输出菜名
         print('已显示所有菜单')
-    print('*'*30)
+   # print('*'*30)
 
 def delete():#删除已点菜品函数
-     print('*'*30)
-     dCi=input('输入菜名字 \t')
-     print('请删除 %s 菜名' % dCi)
-     for dic in lis:#在列表中循环遍历查找dic（所查键值为输入的键值  根据键值查找对应的字典）
+    # print('*'*30)
+     coo=int(input('请选择 1 删除部分\n请选择 2 删除全部\n'))
+     if coo==1 :
+        dCi=input('输入菜名字 \t')
+        print('请删除 %s 菜名' % dCi)
+        for dic in lis:#在列表中循环遍历查找dic（所查键值为输入的键值  根据键值查找对应的字典）
          #print(lis)
-         if dic['caiMing'] == dCi: #判等的输入菜单名字是否在字典中
-             lis.remove(dic)#如果在，则删除此字典
-     print('删除 %s 成功' % dCi)
-     print('*'*30)
-
+            if dic['caiMing'] == dCi: #判等的输入菜单名字是否在字典中
+                lis.remove(dic)#如果在，则删除此字典
+        print('删除 %s 成功' % dCi)
+    # print('*'*30)
+     elif coo==2:
+        lis.clear()
 
 
 #mony=0
@@ -77,7 +80,6 @@ def shuCard():#定义刷卡函数
                 print('付款成功')
                 dic1['money']=dic1['money']-dic['price']*0.5
                 print('卡内余额 %.2f元' %dic1['money'])
-
 def banKa():#办理会员卡函数
     dic1={}
     print('办理会员卡业务')
@@ -88,28 +90,31 @@ def banKa():#办理会员卡函数
     print('办理会员卡成功')
 
 def cunKuan():#会员卡充值函数
-    print('*'*30)
+#    print('*'*30)
     global money
     name_chongZhi=input('输入充值的帐号')
+    coo=int(input('第一次办卡充值按 1\n一次以上卡片充值按 2\n'))
     for dic1 in lis1:
+        #print(lis1)
         if(dic1['name']== name_chongZhi):
-            if dic1['money']<=0 and len(lis1)!=0:#判断卡中是否有余额，没有余额 提示 并充值
+            if  len(lis1)!=0 and coo==1:#判断卡中是否有余额，没有余额 提示 并充值
+                dic1['money']=0
                 print('卡内余额不足')
                 print('请充值')
                 money=int(input('请冲入金额'))
                 dic1['money']=dic1['money']+money
                 print('卡内余额 %d' % dic1['money'])
-            elif dic1['money']>0 and len(lis1)!=0:#如果有余额，就直接冲入相应的充值金额
+            elif  len(lis1)!=0 and coo==2:#如果有余额，就直接冲入相应的充值金额
                 jeIn=int(input('请冲入金额'))
                 dic1['money']=dic1['money']+jeIn
                 print('卡内余额 %d' %dic1['money'])
-                print(dic1)
-            print('*'*30)
+         #       print(dic1)
+ #           print('*'*30)
 
 
 def  xuanzeC():
     while(True):#循环选择
-        print('*'*30)
+  #      print('*'*30)
         display_xiaos()
         dianCai=input('菜名')
         for dic_addcai in lis_addcai:
@@ -119,7 +124,7 @@ def  xuanzeC():
                 panD=input('是否选好菜 输入 Y/N \t')#判断是否选好菜，选好即可跳出循环，未选择好继续循环
         if (panD=='Y'):
             break
-            print('*'*30)
+   #         print('*'*30)
 
 
 
